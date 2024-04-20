@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:warped_button",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+        "X",
+        "X"
+    ],
+    "key": {
+        "X": {
+        "item": "minecraft:cobbled_deepslate_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:cobbled_deepslate",
+        "count": 1
+    }
+}

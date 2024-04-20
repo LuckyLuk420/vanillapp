@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "tag": "__luk:polished_stone_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_button",
+    "count": 4
+  }
+}

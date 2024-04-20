@@ -1,0 +1,67 @@
+{
+    "name": "__luk:campsite",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 18,
+        "element": {
+          "location": "__luk:campsite/small_tent/white_1",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 18,
+        "element": {
+          "location": "__luk:campsite/small_tent/white_2",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "__luk:campsite/large_tent/white_1",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "__luk:campsite/large_tent/white_2",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "__luk:campsite/large_tent/white_3",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "__luk:campsite/large_tent/white_4",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 120,
+        "element": {
+          "element_type": "minecraft:empty_pool_element",
+          "projection": "terrain_matching"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:netherite_scrap",Count:1b,tag:{display:{Name:"{\"color\":\"black\",\"text\":\"villager\"}"}}}}] at @s run function death_msg:death

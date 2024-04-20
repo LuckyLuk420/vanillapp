@@ -1,0 +1,2 @@
+execute unless block ~ ~ ~ #minecraft:wooden_doors positioned ^ ^ ^0.05 if entity @s[distance=..5.4] run function connected_doors:cast_ray
+execute if block ~ ~ ~ #minecraft:wooden_doors run function connected_doors:test
